@@ -1,0 +1,2 @@
+# gotraining
+Practical Go Training
